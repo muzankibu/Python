@@ -1,0 +1,6 @@
+Arithematic operator: {+,-,*,/,%,**,//}
+Comparasion operator: {==,!=,>,<,>=,<=}
+Assignment operator: {=,+=,-=,*=,/=}
+Logical operator: {and, or, not}
+Membership operator: {in. not in}
+Identity operator: {Is,is not}
