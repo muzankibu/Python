@@ -16,7 +16,7 @@ for i in range(0,a):
 print('\nIs there anyy even number given?')
 p=str(any(l2))
 if p=='True':
-	print(f'Yes!there are {s} even number. These are:',end='')
+	print(f'Yes! {s} even number. These are:',end='')
 	print(l3)
 else:
 	print('No! There ain\'t a single even number.')

@@ -1,5 +1,5 @@
-print(5&10)#follow and gate TT
-print(5|10)#follow or gate TT
+print(5&8)#follow and gate TT
+print(5|8)#follow or gate TT
 print(~5)#follow not gate TT
 print(5^10)#follow xor gate TT
 print(5<<2)#(5*2^2)

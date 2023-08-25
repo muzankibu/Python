@@ -1,0 +1,5 @@
+myfile=open('text3.txt','a')
+myfile.seek(7)
+print(myfile.tell())
+myfile.write(' only')
+myfile.close()
