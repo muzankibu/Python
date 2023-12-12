@@ -1,0 +1,36 @@
+INFO:root:We are calling add function
+INFO:root:add function executed, task completed
+INFO:root:We are calling is_even function
+INFO:root:is_even function executed, task completed
+INFO:root:................................................
+
+INFO:root:We are calling add function
+INFO:root:add function executed, task completed
+INFO:root:We are calling is_even function
+INFO:root:is_even function executed, task completed
+INFO:root:................................................
+INFO:root:We are calling add function
+INFO:root:add function executed, task completed
+INFO:root:We are calling is_even function
+INFO:root:is_even function executed, task completed
+INFO:root:................................................
+INFO:root:We are calling add function
+INFO:root:add function executed, task completed
+INFO:root:We are calling is_even function
+INFO:root:is_even function executed, task completed
+INFO:root:................................................
+INFO:root:We are calling add function
+INFO:root:add function executed, task completed
+INFO:root:We are calling is_even function
+INFO:root:is_even function executed, task completed
+INFO:root:................................................
+INFO:root:We are calling add function
+INFO:root:add function executed, task completed
+INFO:root:We are calling is_even function
+INFO:root:is_even function executed, task completed
+INFO:root:................................................
+2023-12-12 11:59:38,779 - root - INFO - We are calling add function
+2023-12-12 11:59:43,480 - root - INFO - add function executed, task completed
+2023-12-12 11:59:43,480 - root - INFO - We are calling is_even function
+2023-12-12 11:59:45,904 - root - INFO - is_even function executed, task completed
+2023-12-12 11:59:45,904 - root - INFO - ................................................
