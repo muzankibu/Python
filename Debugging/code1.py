@@ -1,4 +1,4 @@
-import pdb
+#import pdb
 def sqr(x):
     temp=x**2
     print(temp)
@@ -8,3 +8,4 @@ def main():
         sqr(i)
 if __name__ == "__main__":
     main()
+

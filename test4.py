@@ -1,2 +1,6 @@
-for i in range( 2021546630, 2021699631):
-    if i==2021682642
+b=['a','b','c','d','e']
+#b.insert(2, ['a','b','c','d','e'])
+print(len(b))
+del b[3]
+print(b)
+print(b[0])

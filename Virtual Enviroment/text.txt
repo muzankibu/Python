@@ -1,0 +1,3 @@
+D:\Documents and Works\Vpython>python -m venv myenv
+
+D:\Documents and Works\Vpython>myenv\scripts\activate

@@ -1,7 +1,12 @@
+lm=int(input())
 n=1
 s=0
-while n<=5:
+while n<=lm:
+    if n==lm:
+        print(f'{n}',end='=')
+    else:
+        print(f'{n}',end='+')
     s=s+n
-    print(f"{n}"+"+",end='')
     n=n+2
-print("=",s)
+
+print(s)

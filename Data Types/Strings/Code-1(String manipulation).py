@@ -1,4 +1,6 @@
+from colorama import Fore
 
+print(Fore.GREEN +'Color: Green')
 a='bangla'
 b='DESH'
 c='Bangladesh is my motherland'

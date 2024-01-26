@@ -1,4 +1,4 @@
-from time import*
+from time import time
 def timer(any_function):
     #def count_time():
         start = time()
