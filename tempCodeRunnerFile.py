@@ -1,0 +1,1 @@
+print(Fore.RED+'HELLO RED')

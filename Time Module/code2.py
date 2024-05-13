@@ -1,5 +1,7 @@
 import time
+#from datetime import time 
 
+#tm=time.now()
 print(time.strptime('6 Jan 24', '%d %b %y'))
 
 

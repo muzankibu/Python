@@ -1,4 +1,3 @@
-@profile
 def ghuraghuri():
     count=0
     while count<=100000:

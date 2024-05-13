@@ -1,8 +1,9 @@
 import sys 
 
-limit = int(input('What should be the depth of Python interpreter stack '))
+s=sys.stdin
+for line in s: 
+	if 'q' == line.rstrip(): 
+		break
+	print(f'Input : {line}') 
 
-sys.setrecursionlimit(limit)
-
-print('The depth of stack is', sys.getrecursionlimit())
-
+print("Exit") 

@@ -1,0 +1,5 @@
+2024-01-26 18:37:29,243 - root - INFO - We are calling add function
+2024-01-26 18:37:33,099 - root - INFO - add function executed, task completed
+2024-01-26 18:37:33,100 - root - INFO - We are calling is_even function
+2024-01-26 18:37:35,148 - root - INFO - is_even function executed, task completed
+2024-01-26 18:37:35,148 - root - INFO - ................................................

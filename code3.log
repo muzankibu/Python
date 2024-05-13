@@ -1,0 +1,10 @@
+INFO:root:We are calling add function
+INFO:root:add function executed, task completed
+INFO:root:We are calling is_even function
+INFO:root:is_even function executed, task completed
+INFO:root:................................................
+INFO:root:We are calling add function
+INFO:root:add function executed, task completed
+INFO:root:We are calling is_even function
+INFO:root:is_even function executed, task completed
+INFO:root:................................................

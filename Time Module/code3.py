@@ -6,4 +6,4 @@ while count<=50000:
     print(count)
     count+=1
 stop=time.time()
-print('Computational Cost:', stop-start)
+print('Computational Cost: %.2f' %(stop-start))

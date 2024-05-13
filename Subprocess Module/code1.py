@@ -1,5 +1,5 @@
 import subprocess
 
-result = subprocess.run(["dir"], shell=True, capture_output=True, text=True)
+result = subprocess.run(["python", "test5.1.py"], shell=True, capture_output=True, text=True, input="Mta\n")
 
 print(result.stdout)

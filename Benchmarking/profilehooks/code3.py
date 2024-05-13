@@ -8,7 +8,7 @@ def ghuraghuri():
     return count
 
 
-
+print(__name__) 
 if __name__ == '__main__':
     temp= ghuraghuri()
     print(temp, "loops")

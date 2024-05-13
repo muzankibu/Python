@@ -1,0 +1,15 @@
+#A Python Virtual Environment is an isolated space where you can work on your Python projects, separately from your system-installed Python. You can set up your own libraries and dependencies without affecting the system Python.
+
+Virtual Enviroment Commands:-
+
+    to create- python -m venv myenv
+
+    to activate- myenv\scripts\activate
+
+    to deactivate - deactivate
+
+Here 'myenv' is the name of your virtual enviroment. You can name it as you wish.
+
+
+#if there is restrictions on running virtual environment:-
+open windows powershell > gey-executionpolicy -list > set-executionpolicy -executionpolicy unrestricted -scope currentuser

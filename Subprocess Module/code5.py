@@ -6,3 +6,4 @@ p = subprocess.Popen(["python", "--help"], stdout=subprocess.PIPE, stderr=subpro
 output, errors = p.communicate()
 
 print(output)
+print(errors)
