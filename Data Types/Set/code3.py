@@ -4,5 +4,6 @@ print(a)
 a.discard(12)
 print(a)
 print(a.pop())
+print(a)
 b={11,12,13,14,15,16,17,18,19,20}
 print(b.clear())

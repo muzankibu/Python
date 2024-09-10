@@ -1,2 +1,2 @@
-with open('text.txt','r') as myfile:
+with open('text3.txt','r') as myfile:
     print(myfile.read())

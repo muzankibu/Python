@@ -5,6 +5,10 @@ def is_even(number):
         return True
     else:
         return False
+
+
 if __name__ == '__main__':
-    print(add(1,2))
+
+    print(add(10,2))
     print(is_even(1))
+    print('File executed from: ', __name__)

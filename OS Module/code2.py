@@ -6,4 +6,4 @@ os.chdir('D:\Documents and Works\Python\OS Module\A') #change directory
 
 print(os.getcwd())
 
-os.mkdir('Test Folder2')
+#os.mkdir('Test Folder2')

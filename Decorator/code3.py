@@ -6,8 +6,8 @@ class Person:
 
 
 	@classmethod
-	def fromBirthYear(cls, name, year):
-		return cls(name, date.today().year - year)
+	def fromBirthYear(self, name, year):
+		return self(name, date.today().year - year)
 
 
 	@staticmethod

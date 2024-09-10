@@ -1,12 +1,6 @@
-INFO:root:This is informational message
-ERROR:root:This is an error message
-INFO:root:This is informational message
-ERROR:root:This is an error message
-INFO:root:This is informational message
-ERROR:root:This is an error message
-INFO:root:This is informational message
-ERROR:root:This is an error message
-INFO - 2023-12-12 11:56:56,037 - This is informational message, root
-ERROR - 2023-12-12 11:56:56,038 - This is an error message, root
-INFO - 2023-12-12 11:56:56,126 - This is informational message, root
-ERROR - 2023-12-12 11:56:56,126 - This is an error message, root
+INFO - 2024-07-03 22:28:24,042 - This is informational message, root
+ERROR - 2024-07-03 22:28:24,042 - This is an error message, root
+INFO - 2024-07-03 22:29:02,301 - This is informational message, root
+ERROR - 2024-07-03 22:29:02,301 - This is an error message, root
+INFO - 2024-07-03 22:29:04,042 - This is informational message, root
+ERROR - 2024-07-03 22:29:04,042 - This is an error message, root

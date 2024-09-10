@@ -7,8 +7,11 @@ def taker(darg):
         return wrapper
     return ftaker
 
-@taker(10)
+#@taker(10)
 def callerm(targ):
     print(targ)
 
-callerm(5)
+callerm = taker(10)(callerm)
+
+# Call the decorated function callerm with the argument 100
+callerm(100)

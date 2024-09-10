@@ -1,5 +1,5 @@
 f='kakali kakare koi kaka kake keno khakha kore!'
-g="hello,fff,llolo,ggogo,ffff,bbb"
+g="hello,fff,llolo,ggogo,ffff,bbb" 
 l=[]
 print(f.count('k'))
 q=len(f)

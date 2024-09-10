@@ -4,6 +4,6 @@ def order_pizza(size, *toppings, **details):
         print(f'- {top}')
     print('\nDetails of the order-')
     for key, value in details.items():
-        print(f'-{key}: {value}')
+        print(f'- {key}: {value}')
 
-order_pizza('medium', 'pepperoni', 'olives', delivery=True, tip=5)
+order_pizza('medium', 'pepperoni', 'olives', 'Jalepeno', delivery=True, tip=5)

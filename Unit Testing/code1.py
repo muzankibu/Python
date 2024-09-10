@@ -5,3 +5,8 @@ def is_even(number):
         return True
     else:
         return False
+    
+if __name__ == '__main__':
+    print(__name__)
+    print(add(1,2))
+    print(is_even(5))

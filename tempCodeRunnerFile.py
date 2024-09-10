@@ -1,1 +1,1 @@
-print(Fore.RED+'HELLO RED')
+0
