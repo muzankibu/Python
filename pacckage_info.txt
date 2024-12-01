@@ -1,0 +1,5 @@
+to install a bunch of package - pip install -r requirements.txt
+to uninstall all package at once - 1. pip freeze > requirements.txt
+                                   2. pip uninstall -y -r requirements.txt
+to install a package - pip install [pacakge-name]
+to uninstall a package - pip uninstall -y [package-name]
